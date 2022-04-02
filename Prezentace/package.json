@@ -1,0 +1,14 @@
+{
+  "name": "prezentace",
+  "version": "1.0.0",
+  "description": "Prezentace reklamních materiálů pro maturitní ples 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@glidejs/glide": "^3.5.2"
+  }
+}
